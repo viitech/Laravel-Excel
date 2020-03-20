@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "viitech/excel",
   "description": "Supercharged Excel exports and imports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -15,8 +15,8 @@
   ],
   "authors": [
     {
-      "name": "Patrick Brouwers",
-      "email": "patrick@maatwebsite.nl"
+      "name": "VII Tech Solutions",
+      "email": "support@viitech.net"
     }
   ],
   "require": {
